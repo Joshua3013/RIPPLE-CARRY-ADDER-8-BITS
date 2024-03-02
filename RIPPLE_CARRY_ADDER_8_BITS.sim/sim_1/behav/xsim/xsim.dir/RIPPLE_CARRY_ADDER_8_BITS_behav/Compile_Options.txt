@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "RIPPLE_CARRY_ADDER_8_BITS_behav" "xil_defaultlib.RIPPLE_CARRY_ADDER_8_BITS" "xil_defaultlib.glbl" -log "elaborate.log" 
